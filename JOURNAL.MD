@@ -24,3 +24,12 @@ Starting to do the base!
 Finished Sketching.
 # Hour 13:06
 Taking a brake, also fixed alot of errors of the pcb, therse only five now! (before it was 11)
+# Hour 17:44
+Forgot to put images :(
+Heres the pcb and the model right now.
+![pcb](/assets/image.png)
+![fusion](/assets/Captura%20de%20pantalla%202025-05-17%20181118.png)
+# Hour 18:56
+I asked Lukas for help bcs i suck at modeling.
+heres the photo of the base cad.
+![pcb+model](/assets/Captura%20de%20pantalla%202025-05-17%20185610.png)
