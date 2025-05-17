@@ -33,3 +33,4 @@ Heres the pcb and the model right now.
 I asked Lukas for help bcs i suck at modeling.
 heres the photo of the base cad.
 ![pcb+model](/assets/Captura%20de%20pantalla%202025-05-17%20185610.png)
+![PCB](image-1.png)
