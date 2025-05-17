@@ -13,16 +13,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x04_MountingPin"
-				(at 1.27 -7.62 0)
+			(property "Reference" "J1"
+				(at 2.54 -0.3555 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -30,7 +22,16 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Value" "Conn_01x04_MountingPin"
+				(at 2.54 -2.8955 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "OLED_Screen:SSD1306-0.91-OLED-4pin-128x32"
 				(at 0 0 0)
 				(effects
 					(font
@@ -216,24 +217,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -10.16 90)
-					(length 3.048)
-					(name "MountPin"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2447,9 +2430,6 @@
 		)
 		(pin "1"
 			(uuid "546926c3-04ee-4d11-8269-3af55b8dcfe0")
-		)
-		(pin "MP"
-			(uuid "b07fb708-04ed-4761-80ce-e16ee52c832d")
 		)
 		(instances
 			(project ""

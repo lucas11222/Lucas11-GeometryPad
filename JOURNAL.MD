@@ -20,3 +20,7 @@ Tommorrow im going to start doing the base and then fix all the errors in the pc
 # Day 1 Finished.
 # Day 2
 Starting to do the base!
+# Hour 12:02
+Finished Sketching.
+# Hour 13:06
+Taking a brake, also fixed alot of errors of the pcb, therse only five now! (before it was 11)
