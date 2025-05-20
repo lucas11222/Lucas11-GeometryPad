@@ -1,0 +1,41 @@
+{
+    "manufacturer": "Lucas11",
+    "keyboard_name": "lucas11_geometrypad_firmware",
+    "maintainer": "lucas11222",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["D3", "D4", "D2", "D1", "A3"],
+            [null, null, null, null, null],
+            [null, null, null, null, null],
+            [null, null, null, null, null]
+        ]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00", "x": 0, "y": 0},
+                { "label": "K01", "x": 1, "y": 0},
+                { "label": "K02", "x": 2, "y": 0},
+                { "label": "K03", "x": 3, "y": 0},
+                { "label": "K04", "x": 4, "y": 0}
+            ]
+        }
+    }
+}
