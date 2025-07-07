@@ -38,5 +38,5 @@ heres the photo of the base cad.
 Lukas finished the model!
 # Day 2 finished.
 # Day 3
-Going to make the firmware today!
-Im going to use QMK for firmware.
+The kit arrived! i solded and finished it! theres some errors in the soldering but im going to resolder that parts.
+![the keyboard!](keyboard.jpg)
